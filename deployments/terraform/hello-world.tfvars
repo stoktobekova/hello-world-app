@@ -1,0 +1,5 @@
+google_project_id       = "stately-avatar-315017"
+google_bucket_name      = "fuchicorp-salta"
+deployment_environment  = "qa"
+deployment_name         = "hello-world"
+credentials             = "fuchicorp-service-account.json"
